@@ -104,4 +104,4 @@ MIT License. Free to use and modify.
 
 ## Author
 
-Created by Zainab Mahmood. Reach me at zainab.mirza.23@ucl.ac.uk or visit https://www.linkedin.com/in/zainab-mahmood-mirza/.
+Created by Zainab Mahmood. Reach me at zainab.mahmood.23@ucl.ac.uk or visit https://www.linkedin.com/in/zainab-mahmood-mirza/.
