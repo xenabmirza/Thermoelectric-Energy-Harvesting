@@ -2,6 +2,8 @@ jupyter notebook
 
 # Thermoelectric Energy Harvesting from Car Exhaust 
 
+A majorly untapped source of energy in modern industries is heat lost in operations. As a countermeasure to amend this tremendous waste of potential, thermoelectric materials can be utilized to convert heat  into electricity,  improving energy efficiency and sustainability. While challenges in sourcing efficient materials, scalability and cost-effectiveness still pertain, further research in this field driven by the need to transform energy systems and reduce carbon emissions can open doors to innovative solutions to tackle these obstacles. 
+
 This project simulates power generation from thermoelectric materials placed on a car exhaust system. Using real-world material properties (Bi₂Te₃, PbTe, SnSe), it models the output voltage, power, and cumulative energy over a dynamic 10-minute drive cycle. Results are scaled to a realistic 200-leg thermoelectric module and benchmarked using each material's figure of merit (ZT).
 
 ---
