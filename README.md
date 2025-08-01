@@ -17,9 +17,9 @@ Thermoelectric generators (TEGs) convert heat directly into electricity via the 
 - **Temperature difference (ΔT)**
 
 Performance is benchmarked using the **dimensionless figure of merit**:
-\[
+$\[
 ZT = \frac{S^2 \sigma T}{k}
-\]
+\]$
 
 ---
 
